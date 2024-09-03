@@ -1,3 +1,5 @@
+//go:build cometBFT
+
 // SPDX-License-Identifier: BUSL-1.1
 //
 // Copyright (C) 2024, Berachain Foundation. All rights reserved.
